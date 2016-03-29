@@ -6,3 +6,6 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
     - The statging area is a temporary place to put files before commiting
     - Staging is useful to bundle a set of files that that contain changes that represent one logical commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    - By only staging files that have the relevant changes
