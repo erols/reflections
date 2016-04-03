@@ -16,3 +16,11 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
     - You can see which commit a branch is attached to and tell which are unreachable from where
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    - The changes from both files are combined into a single file
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    - labour saving
+    - well balanced to avoid bad merges
+    - can miss obvious good merges
